@@ -13,3 +13,7 @@ a{
 a:hover{
     color: #1f6feb;
 }
+p::first-letter{
+    font-size: 200%;
+    color: red;
+}
